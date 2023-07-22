@@ -1,0 +1,6 @@
+Hello there.
+Zen here, new to GitHub and programming overall.
+I am, still trying to figure this out...
+
+I guess that is all...
+Later.
